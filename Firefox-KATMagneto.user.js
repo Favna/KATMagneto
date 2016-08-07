@@ -13,6 +13,7 @@
 // @updateURL https://raw.githubusercontent.com/Favna/KATMagneto/master/KATMagneto.js
 // @downloadURL https://raw.githubusercontent.com/Favna/KATMagneto/master/KATMagneto.js
 // @installURL https://raw.githubusercontent.com/Favna/KATMagneto/master/KATMagneto.js
+// @include https://kickasstorrentsan.com/*
 // @grant unsafeWindow
 // @grant GM_getValue
 // @grant GM_setValue
@@ -23,7 +24,6 @@
 // @grant GM_openInTab
 // @grant GM_setClipboard
 // @grant GM_getMetadata
-// @run-at document-start
 // ==/UserScript==
 var magnet = $("[data-sc-params]").attr("data-sc-params");
 magnet = magnet.replace("{ 'magnet': '", "");
