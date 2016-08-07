@@ -1,4 +1,12 @@
 # KATMagneto
 KATMagneto - A browser userscript to make the magnet button on Kickasstorrents work without account
 
-Download the userscript [by clicking here](https://raw.githubusercontent.com/Favna/KATMagneto/master/KATMagneto.user.js)
+## Downloads
+
+***For Chrome Users***
+
+[Click here to download](https://github.com/Favna/KATMagneto/raw/master/Chrome-KATMagneto.user.js)
+
+***For Firefox Users***
+
+[Click here to download](https://github.com/Favna/KATMagneto/raw/master/Firefox-KATMagneto.user.js)
