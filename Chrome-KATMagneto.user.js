@@ -25,6 +25,7 @@
 // @grant GM_openInTab
 // @grant GM_setClipboard
 // @grant GM_getMetadata
+// @run-at document-start
 // ==/UserScript==
 var magnet = $("[data-sc-params]").attr("data-sc-params");
 magnet = magnet.replace("{ 'magnet': '", "");
