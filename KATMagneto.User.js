@@ -11,8 +11,11 @@
 // @supportURL https://github.com/Favna/KATMagneto/issues
 // @updateURL https://raw.githubusercontent.com/Favna/KATMagneto/master/KATMagneto.User.js
 // @downloadURL https://raw.githubusercontent.com/Favna/KATMagneto/master/KATMagneto.User.js
+// @domain kickasstorrentsan.com
 // @match        http://kickasstorrentsan.com/*
 // ==/UserScript==
+use strict;
+
 var magnet = $("[data-sc-params]").attr("data-sc-params");
 magnet = magnet.replace("{ 'magnet': '","");
 magnet = magnet.split("'")[0];
