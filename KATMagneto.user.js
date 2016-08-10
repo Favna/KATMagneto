@@ -15,9 +15,14 @@
 // @installURL https://raw.githubusercontent.com/Favna/KATMagneto/master/KATMagneto.js
 // @include https://kickasstorrentsan.com/*
 // @include http://kickasstorrentsan.com/*
+// @include https://kat.am/*
+// @include http://kat.am/*
 // @domain kickasstorrentsan.com
+// @domain kat.am
 // @match https://kickasstorrentsan.com/*
 // @match http://kickasstorrentsan.com/*
+// @match https://kat.am/*
+// @match http://kat.am/*
 // @grant unsafeWindow
 // @grant GM_getValue
 // @grant GM_setValue
