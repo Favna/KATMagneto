@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name KATMagneto
 // @namespace KATMagneto
-// @version 1.0
+// @version 1.1
 // @description Make the Magnet button work again!
 // @author Favna
 // @license http://www.apache.org/licenses/LICENSE-2.0
