@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name KATMagneto
 // @namespace KATMagneto
-// @version 1.1
+// @version 1.3
 // @description Make the Magnet button work again!
 // @author Favna
 // @license http://www.apache.org/licenses/LICENSE-2.0
@@ -16,14 +16,20 @@
 // @include http://kat.am/*
 // @include https://katcr.to/*
 // @include http://katcr.to/*
+// @include http://kickasstorrents.to
+// @include https://kickasstorrents.to
 // @domain kickasstorrentsan.com
 // @domain kat.am
+// @domain katcr.to
+// @domain kickasstorrents.to
 // @match https://kickasstorrentsan.com/*
 // @match http://kickasstorrentsan.com/*
 // @match https://kat.am/*
 // @match http://kat.am/*
 // @match https://katcr.to/*
 // @match http://katcr.to/*
+// @match http://kickasstorrents.to/*
+// @match https://kickasstorrents.to/*
 // @grant unsafeWindow
 // @grant GM_getValue
 // @grant GM_setValue
