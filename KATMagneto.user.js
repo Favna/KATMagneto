@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name KATMagneto
 // @namespace KATMagneto
-// @version 1.3.1
+// @version 1.3.2
 // @description Make the Magnet button work again!
 // @author Favna
+// @copyright 2016-2018, Favna (https://favna.xyz)
+// @license GPL-3.0+; http://www.gnu.org/licenses/gpl-3.0.txt
 // @icon https://raw.githubusercontent.com/Favna/KATMagneto/master/Assets/icon.png
 // @homepage https://github.com/Favna/KATMagneto
 // @twitterURL https://twitter.com/Favna_
