@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name KATMagneto
 // @namespace KATMagneto
-// @version 1.3.2
+// @version 1.3.3
 // @description Make the Magnet button work again!
 // @author Favna
 // @copyright 2016-2018, Favna (https://favna.xyz)
@@ -11,6 +11,8 @@
 // @twitterURL https://twitter.com/Favna_
 // @contactURL https://www.reddit.com/message/compose/?to=Favna
 // @supportURL https://github.com/Favna/KATMagneto/issues
+// @downloadURL https://raw.githubusercontent.com/Favna/KATMagneto/master/KATMagneto.user.js
+// @updateURL https://raw.githubusercontent.com/Favna/KATMagneto/master/KATMagneto.user.js
 // @include https://kickasstorrentsan.com/*
 // @include http://kickasstorrentsan.com/*
 // @include https://kat.am/*
